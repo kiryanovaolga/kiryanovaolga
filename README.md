@@ -42,7 +42,11 @@ I started my journey as a self-taught learner a year and a half ago and studied 
   
 
 - <a href="https://welcome.stepik.org/en/about" target="_blank">Stepik</a>
+
+  <br>
   
+### <div align="left"> All of my projects are available at:</div>
+ 
 
 
 # Connect with me  
