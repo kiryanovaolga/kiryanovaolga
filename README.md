@@ -45,8 +45,11 @@ I started my journey as a self-taught learner a year and a half ago and studied 
 
   <br>
   
-### <div align="left"> All of my projects are available at:</div>
- 
+### <div align="left"> All of my projects are available at:</div> 
+-  <a href="https://github.com/kiryanovaolga?tab=repositories">Repositories</a>
+- <a href="https://github.com/kiryanovaolga">Main Page</a>
+
+
 
 
 # Connect with me  
