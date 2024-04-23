@@ -56,3 +56,4 @@ I started my journey as a self-taught learner a year and a half ago and studied 
 
 <a href="https://github.com/kiryanovaolga" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
 <a href="https://www.facebook.com/profile.php?id=100004407303369&locale=cs_CZ" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
+<div><a href="mailto:olgkiryanova1@gmail.com">olgkiryanova1@gmail.com</a></div>
