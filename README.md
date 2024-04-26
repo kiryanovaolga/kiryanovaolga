@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olga Kiryanova</h1>
-<p>I am very passionate about front-end development.
-I started my journey as a self-taught learner a year and a half ago and studied on various online educational platforms. I am constantly curious and exploring new ways to develop in this field.I recently completed a certified course in Front-End Development at ItStep school. But I am not going to stop there and will continue to move forward.</p>
+<p>I am very passionate about front-end development. Started my journey as a self-taught learner a year and a half ago and studied on various online educational platforms
+I . I'm constantly curious and exploring new ways to develop in this field.I recently completed a certified course in Front-End Development at ItStep school. But I am not going to stop there and will continue to move forward.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
