@@ -30,7 +30,7 @@ I . I'm constantly curious and exploring new ways to develop in this field.I rec
 
 ### <div align="left">I’m currently learning:</div>  
 - GULP
-
+<br/> 
 
 ### <div align="left">Courcses and  Education online-platforms</div>  
 
