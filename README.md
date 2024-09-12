@@ -32,6 +32,12 @@ I . I'm constantly curious and exploring new ways to develop in this field.I rec
 - GULP
 <br/> 
 
+
+### <div align="left">I’m going to study:</div>  
+- Python
+<br/> 
+
+
 ### <div align="left">Courcses and  Education online-platforms</div>  
 
 
