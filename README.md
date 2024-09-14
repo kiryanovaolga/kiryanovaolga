@@ -63,5 +63,5 @@ I . I'm constantly curious and exploring new ways to develop in this field.I rec
 
 <a href="https://github.com/kiryanovaolga" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
 <a href="https://www.facebook.com/profile.php?id=100004407303369&locale=cs_CZ" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
-<div><a href="mailto:olgkiryanova1@gmail.com">olgkiryanova1@gmail.com</a></div>
 <a href="https://linkedin.com/in/kiryanovaolga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiryanovaolga" height="30" width="40" /></a>
+<div><a href="mailto:olgkiryanova1@gmail.com">olgkiryanova1@gmail.com</a></div>
