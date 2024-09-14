@@ -30,9 +30,8 @@ I . I'm constantly curious and exploring new ways to develop in this field.I rec
 
 ### <div align="left">I’m currently learning:</div>  
 - GULP
-<br/>
 - CSS Aninmation
-
+<br/>
 
 ### <div align="left">I’m going to study:</div>  
 - Python
