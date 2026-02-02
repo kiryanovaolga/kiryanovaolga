@@ -42,7 +42,7 @@ I . I'm constantly curious and exploring new ways to develop in this field.I rec
 
 
   
-- IT Step Akademy (Frontend Development)
+- <a href="https://praha.itstep.org/" target="_blank">IT Step Akademy (Frontend Development)</a> 
 
 
 - <a href="https://github.com/Hexlet" target="_blank">Hexlet</a> 
