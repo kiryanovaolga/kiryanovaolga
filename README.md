@@ -43,8 +43,8 @@ I . I'm constantly curious and exploring new ways to develop in this field.I rec
 
   
 - <a href="https://praha.itstep.org/" target="_blank">IT Step Akademy</a>
-  <p><span>&#8226;</span>Frontend Developer</p>
-  <p><span>&#8226;</span>Python Developer</p>
+  -<p>Frontend Developer</p>
+  -<p>Python Developer</p>
 
 
 - <a href="https://github.com/Hexlet" target="_blank">Hexlet</a> 
